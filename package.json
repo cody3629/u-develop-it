@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/cody3629/u-develop-it/issues"
   },
-  "homepage": "https://github.com/cody3629/u-develop-it#readme",
+  "homepage": "https://github.com/cody3629/u-develop-it#readme", 
   "dependencies": {
     "express": "^4.17.2",
     "mysql2": "^2.3.3"
